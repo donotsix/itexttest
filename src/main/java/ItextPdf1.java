@@ -32,6 +32,9 @@ public class ItextPdf1 {
 
             document.close();
 
+            //不支持中文
+
+
 
 
 
